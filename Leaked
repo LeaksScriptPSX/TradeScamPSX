@@ -1,4 +1,5 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shmoly/fuck-psx/main/PsxCatLoadingScript.lua%22))() loadstring(game:HttpGet("https://raw.githubusercontent.com/LeaksScriptPSX/wowo/main/w",true))();
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shmoly/fuck-psx/main/PsxCatLoadingScript.lua%22))() _G.License = "34c6bcf11322061f45b5"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))() 
 local Window = Library.CreateLib("Bank Dupe", "DarkTheme")
 
 --Dupe
